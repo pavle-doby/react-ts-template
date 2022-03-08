@@ -1,0 +1,2 @@
+# battleship-mini
+Training React
